@@ -8,7 +8,7 @@
 I'm a Backend Developer with expertise in building scalable web applications and microservices. Currently working as SDE 1, I specialize in creating robust backend systems using Node.js and TypeScript.
 
 - 🌍 Based in Faridabad, Haryana
-- 💼 Backend Developer with focus on Node.js & TypeScript
+- 💼 Backend Developer with focus on Node.js & TypeScript, API integration
 - 🚀 Passionate about building scalable distributed systems
 - 📚 Continuous learner and technology enthusiast
 
