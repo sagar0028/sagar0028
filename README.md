@@ -1,163 +1,198 @@
-# 👋 Hi, I'm Sagar Sharma
+<div align="center">
 
-<h3 align="center">Backend Software Engineer | Node.js | TypeScript | Microservices | AWS</h3>
+# Hi 👋 I'm Sagar Sharma
 
-<p align="center">
-Building scalable backend systems, REST APIs, distributed systems, and production-ready microservices.
+### Backend Software Engineer • Node.js • TypeScript • Distributed Systems
+
+Building scalable backend systems, distributed services, and production-grade APIs.
+
+<p>
+<a href="mailto:rsagarsharma0028@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sagar-sharma-b5ba31210">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sagar0028">
+<img src="https://img.shields.io/github/followers/sagar0028?label=GitHub&style=for-the-badge"/>
+</a>
+
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sagar-sharma-b5ba31210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sagar0028"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-Backend Software Engineer with **4.5+ years of experience** building scalable backend systems using **Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, Redis, and AWS**.
+Backend Software Engineer with **4.5+ years of experience** building high-performance backend systems using **Node.js, TypeScript, PostgreSQL, MongoDB, Redis, Kafka, and AWS**.
 
-Currently building production-grade backend services for retail platforms while continuously learning distributed systems, system design, and backend architecture.
+I enjoy designing systems that are **scalable**, **maintainable**, and **reliable**—from REST APIs and microservices to event-driven architectures and distributed backend services.
 
-- 🚀 4.5+ Years of Backend Development Experience
-- 🏗️ Experienced in Microservices & REST API Development
-- ⚡ Built systems handling **100K+ monthly transactions**
-- 📈 Improved application performance by **3x**
-- 💾 Reduced database load by **70%** using Redis caching
-- 🌱 Currently learning System Design, Kafka & Node.js Internals
-- 📍 Faridabad, Haryana, India
+I've worked across **FinTech**, **Retail**, and **AI** platforms, building products that serve real users at production scale.
 
 ---
 
-# 🛠️ Tech Stack
+# 💼 Experience Snapshot
 
-## 🚀 Backend
+🏢 **4.5+ Years** of Backend Engineering
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+⚡ Built systems processing **100K+ monthly loan applications**
 
----
+🚀 Improved backend performance by **3×**
 
-## 💻 Languages
+💾 Reduced database load by **70%** using Redis
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+📦 Designed multiple production microservices
 
----
+🔔 Built Notification, Audit, OTP, and Quotation Management Services
 
-## 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+☁️ Experience with AWS, Docker, Kubernetes & CI/CD
 
 ---
 
-## ☁️ Cloud & DevOps
+# ⚙️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
 ---
 
-# 💼 Professional Highlights
+## Backend
 
-🏢 **Backend Software Engineer** with **4.5+ years** of experience
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
 
-✅ Designed and developed multiple production microservices
+---
 
-✅ Built Loan Aggregation Platform processing **100K+ applications/month**
+## Databases
 
-✅ Improved backend performance by **3x**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/ElasticSearch-black?style=for-the-badge&logo=elasticsearch)
 
-✅ Reduced database load by **70%** using Redis
+---
 
-✅ Built Notification, Audit & Quotation Management Services
+## Cloud & DevOps
 
-✅ Experience working with FinTech, Retail & AI platforms
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+## Engineering
+
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-black?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-black?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
+## 🔔 Distributed Notification Platform
+
+Production-inspired notification platform supporting:
+
+- Email
+- SMS
+- WhatsApp
+- Template Engine
+- Provider Routing
+- Retry Mechanism
+- Event-driven Architecture
+- Scalable API Design
+
+**Tech**
+
+Node.js • Fastify • PostgreSQL • Redis • Docker
+
+---
+
 ## 💬 Real-Time Chat Platform
 
-A scalable WebSocket-based chat platform supporting private chats, group conversations and real-time notifications.
-
-### Tech Stack
-
-Node.js • Socket.io • Redis • PostgreSQL • Express.js • Knex.js
+Production-ready WebSocket chat application.
 
 ### Features
 
 - JWT Authentication
-- WebSocket Communication
+- Socket.io
 - Redis Pub/Sub
+- PostgreSQL
+- Presence Detection
+- Group Chat
 - Message Persistence
-- User Presence Detection
-- Real-time Notifications
-
-🔗 Repository: https://github.com/sagar0028/chat-backend
-
-🎥 Demo: https://drive.google.com/file/d/1GkxPewQr5Vh5qNDki4cQ19CbvaHy34OM/view
-
----
-
-## 😷 Face Mask Detection System
-
-Deep Learning project for real-time face mask detection using Computer Vision.
-
-### Tech Stack
-
-Python • TensorFlow • Keras • OpenCV
+- Docker Support
 
 🔗 Repository
 
-https://github.com/sagar0028/Face-Mask-Detection
+https://github.com/sagar0028/chat-backend
 
 ---
 
-## 📚 Currently Learning
+## ♟️ Chess Tournament Platform
 
-- Data Structures & Algorithms
-- Low Level Design (LLD)
-- High Level Design (HLD)
-- Node.js Internals
-- Kafka
-- Distributed Systems
-- Performance Optimization
+Modern tournament management backend.
+
+### Features
+
+- Authentication
+- Tournament Management
+- Match Scheduling
+- Player Management
+- REST APIs
+- PostgreSQL
+- Clean Architecture
+
+🚧 Currently under development.
 
 ---
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sagar0028&show_icons=true&theme=radical)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0028&layout=compact&theme=radical)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagar0028&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar0028&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 📚 Currently Learning
 
-💼 **LinkedIn**
+- Advanced System Design
+- Distributed Systems
+- Kafka
+- Node.js Internals
+- Performance Engineering
+- Low-Level Design
 
-https://www.linkedin.com/in/sagar-sharma-b5ba31210/
+---
+
+# 🤝 Connect With Me
 
 📧 **Email**
 
-rsagarsharma0028@gmail.com
+**rsagarsharma0028@gmail.com**
 
-📍 **Location**
+💼 **LinkedIn**
 
-Faridabad, Haryana, India
+**https://www.linkedin.com/in/sagar-sharma-b5ba31210**
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to connect or collaborate on backend engineering projects.
+> *"First solve the problem. Then optimize it. Then scale it."* 🚀
